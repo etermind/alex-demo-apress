@@ -1,5 +1,5 @@
 config:
-    root: '/alex-demo-apress'
+    rootPath: '/alex-demo-apress'
     langs: 
         - en
         - fr
