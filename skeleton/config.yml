@@ -57,7 +57,7 @@ menu:
                 hide: false
                 submenus: 
                     -
-                        content: global 
+                        content: general 
                         name:
                             fr: 'Généralités'
                             en: 'General'

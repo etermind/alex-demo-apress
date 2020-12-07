@@ -1,4 +1,4 @@
 ---
 template: 'guide.htm'
 ---
-Typescript
+Alex! Press supports two languages: French & English.

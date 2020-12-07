@@ -1,7 +1,7 @@
 ---
-template: 'guide.htm'
+template: guide.htm
 ---
-You can use the LaTeX syntax to write math formulas:
+Vous pouvez utiliser la syntaxe de LaTeX pour écrire des formules de math:
 
 ```latex
 \begin{aligned}
@@ -11,4 +11,4 @@ F(\textbf{w})
 \end{aligned}
 ```
 
-The _inline_ syntax is also supported $$x = \frac{1}{2}$$.
+Aussi, la syntaxe _inline_ est supportée $$x = \frac{1}{2}$$.
