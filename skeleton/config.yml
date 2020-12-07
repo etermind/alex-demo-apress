@@ -21,7 +21,7 @@ theme:
     title:
         fr: 'Alex Press'
         en: 'Alex Press'
-    icon: /assets/user/imgs/falcon.svg
+    icon: assets/user/imgs/falcon.svg
     start: 'guide'
 
 menu:
