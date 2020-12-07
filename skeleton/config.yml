@@ -1,4 +1,5 @@
 config:
+    root: '/alex-demo-apress'
     langs: 
         - en
         - fr
@@ -21,7 +22,7 @@ theme:
     title:
         fr: 'Alex Press'
         en: 'Alex Press'
-    icon: assets/user/imgs/falcon.svg
+    icon: '/alex-demo-apress/assets/user/imgs/icon.svg'
     start: 'guide'
 
 menu:
